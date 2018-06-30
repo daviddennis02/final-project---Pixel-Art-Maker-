@@ -8,9 +8,7 @@
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Fill out all required fields, select the desired color and start applying colors to those squares to create your art!
 
 ## Contributing
 
