@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-image:url("background.jpg");
+    color: white;
+   font-size: medium;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 75px;
+    margin: 0.2em;
+    word-spacing: 10px;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid white;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+.error {
+    border-radius: 0%;
+    content:"";
+    position: absolute;
+    top: 0; left: 0;
+    width: inherit; height: inherit;
+    border-radius: 998px;
+    box-shadow: inset 30px 0 0 rgba(226, 82, 88, 0.4),
+    inset 0 30px 0 rgba(255, 93, 84, 0.97),
+    inset -30px 0 0 rgba(255, 135, 88, 0.94),
+    inset 0 -30px 0 rgba(245, 105, 145, 0.4);
+    animation: shadowsdancing 4s infinite;
+}
