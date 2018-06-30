@@ -1,4 +1,4 @@
-# final-project---Pixel-Art-Maker-
+# Final-project---Pixel-Art-Maker-
 # Pixel Art Maker Project
 
 ## Table of Contents
